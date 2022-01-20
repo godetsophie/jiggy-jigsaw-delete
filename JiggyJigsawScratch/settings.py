@@ -27,6 +27,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['https://jiggy-jigsaw.azurewebsites.net/', 'localhost']
 
+WEBSITES_PORT = 80
+
 # Application references
 # https://docs.djangoproject.com/en/2.1/ref/settings/#std:setting-INSTALLED_APPS
 INSTALLED_APPS = [
